@@ -13,7 +13,7 @@ from typing import Dict, Any
 
 # Logging configuration
 LOG_IDENTIFIER = "GRAD_AGENT"
-RAG_CORPUS='projects/oxjytxr-mss-mkt-genai-accel/locations/us-central1/ragCorpora/6838716034162098176'
+RAG_CORPUS='projects/gcbp-agentspace/locations/us-central1/ragCorpora/7054888816275881984'
 
 # OAuth configuration
 # Source note: From EBC agent/config/config.py - same OAuth pattern
